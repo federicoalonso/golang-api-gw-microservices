@@ -11,3 +11,4 @@ Tras múltiples búsquedas me encontré con un blog que brinda una base de lo qu
 Dejo la url del enlace seguido.
 
 [Microservices in Go with gRPC, API Gateway, and Authentication — Part 1/2](https://levelup.gitconnected.com/microservices-with-go-grpc-api-gateway-and-authentication-part-1-2-393ad9fc9d30)
+[Microservices in Go with gRPC, API Gateway, and Authentication — Part 2/2](https://levelup.gitconnected.com/microservices-in-go-with-grpc-api-gateway-and-authentication-ba36cc32d167)
